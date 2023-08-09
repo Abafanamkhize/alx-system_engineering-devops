@@ -1,2 +1,10 @@
 #!/bin/bash
-echo 'Best School' > \\*\\\\*'\"Best School\"\*'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\\\
+
+# Create the file with the specified name
+touch '\*\\'"Best School"\'\\*$?******:)'
+
+# Add the desired content to the file
+echo 'Best School' > '\*\\'"Best School"\'\\*$?******:)'
+
+# Display success message
+echo "File created: '\*\\'"Best School"\'\\*$?******:)'"
